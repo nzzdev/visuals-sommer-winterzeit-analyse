@@ -1,0 +1,4 @@
+astral==3.2
+ipykernel==6.29.5
+geopandas==1.0.1
+timezonefinder==6.5.8

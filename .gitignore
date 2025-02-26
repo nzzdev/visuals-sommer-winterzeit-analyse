@@ -6,9 +6,5 @@ __pycache__
 .vscode
 credentials.py
 *.qmd
-src_grafiken_diverse/q/q.config.json
 .env
-q.config.json
-export/chapters/neighbour
-export/chapters/political-landscape
-daten/testdaten/sd-t-17.02-NRW2023-kandidierende.json
+.DS_STORE
