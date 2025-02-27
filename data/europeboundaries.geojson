@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "europeboundaries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -12.62177, 34.32912 ], [ 47.9947, 32.16831 ], [ 47.76725, 74.47474 ], [ 3.75491, 71.40411 ], [ -14.21395, 54.79997 ], [ -12.62177, 34.32912 ] ] ] } }
+]
+}
