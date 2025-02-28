@@ -23760,6 +23760,326 @@
     }
   },
   {
+    "nuts_id": "FI1C7",
+    "name": "Kymenlaakso",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:42:30.581310",
+        "earliest_day": "2025-06-10",
+        "latest": "10:24:08.664714",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:42:30.581310",
+        "earliest_day": "2025-06-10",
+        "latest": "09:24:08.664714",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-10 03:42:30.581310+03:00",
+        "latest": "2025-12-26 09:24:08.664714+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:56:31.697780",
+        "earliest_day": "2025-12-16",
+        "latest": "22:45:28.046811",
+        "latest_day": "2025-07-01"
+      },
+      "winter": {
+        "earliest": "14:56:31.697780",
+        "earliest_day": "2025-12-16",
+        "latest": "21:45:28.046811",
+        "latest_day": "2025-07-01"
+      },
+      "current": {
+        "earliest": "2025-12-16 14:56:31.697780+02:00",
+        "latest": "2025-07-01 22:45:28.046811+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1D5",
+    "name": "Keski-Pohjanmaa",
+    "sunrise": {
+      "summer": {
+        "earliest": "04:00:09.752410",
+        "earliest_day": "2025-05-20",
+        "latest": "11:11:24.672947",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "03:00:09.752410",
+        "earliest_day": "2025-05-20",
+        "latest": "10:11:24.672947",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-20 04:00:09.752410+03:00",
+        "latest": "2025-12-25 10:11:24.672947+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:32:36.474200",
+        "earliest_day": "2025-12-18",
+        "latest": "22:51:45.757445",
+        "latest_day": "2025-07-22"
+      },
+      "winter": {
+        "earliest": "14:32:36.474200",
+        "earliest_day": "2025-12-18",
+        "latest": "21:51:45.757445",
+        "latest_day": "2025-07-22"
+      },
+      "current": {
+        "earliest": "2025-12-18 14:32:36.474200+02:00",
+        "latest": "2025-07-22 22:51:45.757445+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1D7",
+    "name": "Lappi",
+    "sunrise": {
+      "summer": {
+        "earliest": "04:06:01.597272",
+        "earliest_day": "2025-05-03",
+        "latest": "12:55:37.092034",
+        "latest_day": "2025-01-01"
+      },
+      "winter": {
+        "earliest": "03:06:01.597272",
+        "earliest_day": "2025-05-03",
+        "latest": "11:55:37.092034",
+        "latest_day": "2025-01-01"
+      },
+      "current": {
+        "earliest": "2025-05-03 04:06:01.597272+03:00",
+        "latest": "2025-01-01 11:55:37.092034+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "13:20:08.527135",
+        "earliest_day": "2025-12-11",
+        "latest": "22:28:47.066575",
+        "latest_day": "2025-08-08"
+      },
+      "winter": {
+        "earliest": "12:20:08.527135",
+        "earliest_day": "2025-12-11",
+        "latest": "21:50:27.337328",
+        "latest_day": "2025-04-26"
+      },
+      "current": {
+        "earliest": "2025-12-11 12:20:08.527135+02:00",
+        "latest": "2025-08-08 22:28:47.066575+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1D8",
+    "name": "Kainuu",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:43:10.777267",
+        "earliest_day": "2025-05-16",
+        "latest": "11:08:19.244038",
+        "latest_day": "2025-12-24"
+      },
+      "winter": {
+        "earliest": "02:43:10.777267",
+        "earliest_day": "2025-05-16",
+        "latest": "10:08:19.244038",
+        "latest_day": "2025-12-24"
+      },
+      "current": {
+        "earliest": "2025-05-16 03:43:10.777267+03:00",
+        "latest": "2025-12-24 10:08:19.244038+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "14:58:28.355010",
+        "earliest_day": "2025-12-18",
+        "latest": "22:31:48.857075",
+        "latest_day": "2025-07-26"
+      },
+      "winter": {
+        "earliest": "13:58:28.355010",
+        "earliest_day": "2025-12-18",
+        "latest": "21:31:48.857075",
+        "latest_day": "2025-07-26"
+      },
+      "current": {
+        "earliest": "2025-12-18 13:58:28.355010+02:00",
+        "latest": "2025-07-26 22:31:48.857075+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1D9",
+    "name": "Pohjois-Pohjanmaa",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:53:17.564958",
+        "earliest_day": "2025-05-14",
+        "latest": "11:24:58.250984",
+        "latest_day": "2025-12-24"
+      },
+      "winter": {
+        "earliest": "02:53:17.564958",
+        "earliest_day": "2025-05-14",
+        "latest": "10:24:58.250984",
+        "latest_day": "2025-12-24"
+      },
+      "current": {
+        "earliest": "2025-05-14 03:53:17.564958+03:00",
+        "latest": "2025-12-24 10:24:58.250984+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "14:58:32.696019",
+        "earliest_day": "2025-12-18",
+        "latest": "22:38:27.477451",
+        "latest_day": "2025-07-28"
+      },
+      "winter": {
+        "earliest": "13:58:32.696019",
+        "earliest_day": "2025-12-18",
+        "latest": "21:38:27.477451",
+        "latest_day": "2025-07-28"
+      },
+      "current": {
+        "earliest": "2025-12-18 13:58:32.696019+02:00",
+        "latest": "2025-07-28 22:38:27.477451+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1DA",
+    "name": "Etelä-Savo",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:40:23.218241",
+        "earliest_day": "2025-05-31",
+        "latest": "10:32:28.815277",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:40:23.218241",
+        "earliest_day": "2025-05-31",
+        "latest": "09:32:28.815277",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-05-31 03:40:23.218241+03:00",
+        "latest": "2025-12-26 09:32:28.815277+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:41:49.189457",
+        "earliest_day": "2025-12-17",
+        "latest": "22:41:30.430608",
+        "latest_day": "2025-07-11"
+      },
+      "winter": {
+        "earliest": "14:41:49.189457",
+        "earliest_day": "2025-12-17",
+        "latest": "21:41:30.430608",
+        "latest_day": "2025-07-11"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:41:49.189457+02:00",
+        "latest": "2025-07-11 22:41:30.430608+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1DB",
+    "name": "Pohjois-Savo",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:43:55.771536",
+        "earliest_day": "2025-05-23",
+        "latest": "10:50:28.014501",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "02:43:55.771536",
+        "earliest_day": "2025-05-23",
+        "latest": "09:50:28.014501",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-23 03:43:55.771536+03:00",
+        "latest": "2025-12-25 09:50:28.014501+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:26:06.343937",
+        "earliest_day": "2025-12-17",
+        "latest": "22:37:51.793412",
+        "latest_day": "2025-07-20"
+      },
+      "winter": {
+        "earliest": "14:26:06.343937",
+        "earliest_day": "2025-12-17",
+        "latest": "21:37:51.793412",
+        "latest_day": "2025-07-20"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:26:06.343937+02:00",
+        "latest": "2025-07-20 22:37:51.793412+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1DC",
+    "name": "Pohjois-Karjala",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:34:44.888516",
+        "earliest_day": "2025-05-24",
+        "latest": "10:37:37.250479",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "02:34:44.888516",
+        "earliest_day": "2025-05-24",
+        "latest": "09:37:37.250479",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-24 03:34:44.888516+03:00",
+        "latest": "2025-12-25 09:37:37.250479+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:19:59.340702",
+        "earliest_day": "2025-12-17",
+        "latest": "22:30:43.576873",
+        "latest_day": "2025-07-18"
+      },
+      "winter": {
+        "earliest": "14:19:59.340702",
+        "earliest_day": "2025-12-17",
+        "latest": "21:30:43.576873",
+        "latest_day": "2025-07-18"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:19:59.340702+02:00",
+        "latest": "2025-07-18 22:30:43.576873+03:00"
+      }
+    }
+  },
+  {
     "nuts_id": "FI200",
     "name": "Åland",
     "sunrise": {
@@ -28120,6 +28440,206 @@
     }
   },
   {
+    "nuts_id": "FI196",
+    "name": "Satakunta",
+    "sunrise": {
+      "summer": {
+        "earliest": "04:03:04.247996",
+        "earliest_day": "2025-06-02",
+        "latest": "10:51:34.893038",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "03:03:04.247996",
+        "earliest_day": "2025-06-02",
+        "latest": "09:51:34.893038",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-02 04:03:04.247996+03:00",
+        "latest": "2025-12-26 09:51:34.893038+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "16:07:55.182118",
+        "earliest_day": "2025-12-16",
+        "latest": "23:03:54.206331",
+        "latest_day": "2025-07-09"
+      },
+      "winter": {
+        "earliest": "15:07:55.182118",
+        "earliest_day": "2025-12-16",
+        "latest": "22:03:54.206331",
+        "latest_day": "2025-07-09"
+      },
+      "current": {
+        "earliest": "2025-12-16 15:07:55.182118+02:00",
+        "latest": "2025-07-09 23:03:54.206331+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI198",
+    "name": "Keski-Suomi",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:51:25.868382",
+        "earliest_day": "2025-05-26",
+        "latest": "10:50:54.873562",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "02:51:25.868382",
+        "earliest_day": "2025-05-26",
+        "latest": "09:50:54.873562",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-26 03:51:25.868382+03:00",
+        "latest": "2025-12-25 09:50:54.873562+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:42:03.342404",
+        "earliest_day": "2025-12-17",
+        "latest": "22:49:16.987108",
+        "latest_day": "2025-07-16"
+      },
+      "winter": {
+        "earliest": "14:42:03.342404",
+        "earliest_day": "2025-12-17",
+        "latest": "21:49:16.987108",
+        "latest_day": "2025-07-16"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:42:03.342404+02:00",
+        "latest": "2025-07-16 22:49:16.987108+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI199",
+    "name": "Etelä-Pohjanmaa",
+    "sunrise": {
+      "summer": {
+        "earliest": "04:01:11.631810",
+        "earliest_day": "2025-05-25",
+        "latest": "11:02:58.432063",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "03:01:11.631810",
+        "earliest_day": "2025-05-25",
+        "latest": "10:02:58.432063",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-25 04:01:11.631810+03:00",
+        "latest": "2025-12-25 10:02:58.432063+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:49:12.059098",
+        "earliest_day": "2025-12-17",
+        "latest": "22:58:43.418223",
+        "latest_day": "2025-07-17"
+      },
+      "winter": {
+        "earliest": "14:49:12.059098",
+        "earliest_day": "2025-12-17",
+        "latest": "21:58:43.418223",
+        "latest_day": "2025-07-17"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:49:12.059098+02:00",
+        "latest": "2025-07-17 22:58:43.418223+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI19A",
+    "name": "Pohjanmaa",
+    "sunrise": {
+      "summer": {
+        "earliest": "04:05:50.365597",
+        "earliest_day": "2025-05-23",
+        "latest": "11:11:31.451838",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "03:05:50.365597",
+        "earliest_day": "2025-05-23",
+        "latest": "10:11:31.451838",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-23 04:05:50.365597+03:00",
+        "latest": "2025-12-25 10:11:31.451838+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:48:07.953074",
+        "earliest_day": "2025-12-17",
+        "latest": "23:01:36.286850",
+        "latest_day": "2025-07-19"
+      },
+      "winter": {
+        "earliest": "14:48:07.953074",
+        "earliest_day": "2025-12-17",
+        "latest": "22:01:36.286850",
+        "latest_day": "2025-07-19"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:48:07.953074+02:00",
+        "latest": "2025-07-19 23:01:36.286850+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI19B",
+    "name": "Pirkanmaa",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:56:19.510908",
+        "earliest_day": "2025-06-01",
+        "latest": "10:46:55.072063",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:56:19.510908",
+        "earliest_day": "2025-06-01",
+        "latest": "09:46:55.072063",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-01 03:56:19.510908+03:00",
+        "latest": "2025-12-26 09:46:55.072063+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:59:32.605684",
+        "earliest_day": "2025-12-17",
+        "latest": "22:57:39.337944",
+        "latest_day": "2025-07-10"
+      },
+      "winter": {
+        "earliest": "14:59:32.605684",
+        "earliest_day": "2025-12-17",
+        "latest": "21:57:39.337944",
+        "latest_day": "2025-07-10"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:59:32.605684+02:00",
+        "latest": "2025-07-10 22:57:39.337944+03:00"
+      }
+    }
+  },
+  {
     "nuts_id": "FI1B1",
     "name": "Helsinki-Uusimaa",
     "sunrise": {
@@ -28156,6 +28676,166 @@
       "current": {
         "earliest": "2025-12-16 15:10:12.668435+02:00",
         "latest": "2025-06-23 22:52:34.580451+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1C1",
+    "name": "Varsinais-Suomi",
+    "sunrise": {
+      "summer": {
+        "earliest": "04:00:09.798576",
+        "earliest_day": "2025-06-17",
+        "latest": "10:39:29.166176",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "03:00:09.798576",
+        "earliest_day": "2025-06-17",
+        "latest": "09:39:29.166176",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-17 04:00:09.798576+03:00",
+        "latest": "2025-12-26 09:39:29.166176+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "16:17:19.387289",
+        "earliest_day": "2025-12-16",
+        "latest": "23:03:44.597643",
+        "latest_day": "2025-06-24"
+      },
+      "winter": {
+        "earliest": "15:17:19.387289",
+        "earliest_day": "2025-12-16",
+        "latest": "22:03:44.597643",
+        "latest_day": "2025-06-24"
+      },
+      "current": {
+        "earliest": "2025-12-16 15:17:19.387289+02:00",
+        "latest": "2025-06-24 23:03:44.597643+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1C2",
+    "name": "Kanta-Häme",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:52:32.917258",
+        "earliest_day": "2025-06-09",
+        "latest": "10:36:05.911617",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:52:32.917258",
+        "earliest_day": "2025-06-09",
+        "latest": "09:36:05.911617",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-09 03:52:32.917258+03:00",
+        "latest": "2025-12-26 09:36:05.911617+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "16:05:51.354927",
+        "earliest_day": "2025-12-16",
+        "latest": "22:55:44.804678",
+        "latest_day": "2025-07-03"
+      },
+      "winter": {
+        "earliest": "15:05:51.354927",
+        "earliest_day": "2025-12-16",
+        "latest": "21:55:44.804678",
+        "latest_day": "2025-07-03"
+      },
+      "current": {
+        "earliest": "2025-12-16 15:05:51.354927+02:00",
+        "latest": "2025-07-03 22:55:44.804678+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1C5",
+    "name": "Etelä-Karjala",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:37:35.024854",
+        "earliest_day": "2025-06-05",
+        "latest": "10:22:55.626546",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:37:35.024854",
+        "earliest_day": "2025-06-05",
+        "latest": "09:22:55.626546",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-05 03:37:35.024854+03:00",
+        "latest": "2025-12-26 09:22:55.626546+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:46:37.399997",
+        "earliest_day": "2025-12-16",
+        "latest": "22:39:24.834680",
+        "latest_day": "2025-07-06"
+      },
+      "winter": {
+        "earliest": "14:46:37.399997",
+        "earliest_day": "2025-12-16",
+        "latest": "21:39:24.834680",
+        "latest_day": "2025-07-06"
+      },
+      "current": {
+        "earliest": "2025-12-16 14:46:37.399997+02:00",
+        "latest": "2025-07-06 22:39:24.834680+03:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "FI1C6",
+    "name": "Päijät-Häme",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:46:59.222775",
+        "earliest_day": "2025-06-06",
+        "latest": "10:33:08.931379",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:46:59.222775",
+        "earliest_day": "2025-06-06",
+        "latest": "09:33:08.931379",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-06 03:46:59.222775+03:00",
+        "latest": "2025-12-26 09:33:08.931379+02:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:57:18.650199",
+        "earliest_day": "2025-12-16",
+        "latest": "22:49:36.265444",
+        "latest_day": "2025-07-06"
+      },
+      "winter": {
+        "earliest": "14:57:18.650199",
+        "earliest_day": "2025-12-16",
+        "latest": "21:49:36.265444",
+        "latest_day": "2025-07-06"
+      },
+      "current": {
+        "earliest": "2025-12-16 14:57:18.650199+02:00",
+        "latest": "2025-07-06 22:49:36.265444+03:00"
       }
     }
   },
@@ -39080,6 +39760,86 @@
     }
   },
   {
+    "nuts_id": "NO072",
+    "name": "Troms/Romsa/Tromssa",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:39:18.176910",
+        "earliest_day": "2025-04-28",
+        "latest": "12:24:24.835198",
+        "latest_day": "2025-01-13"
+      },
+      "winter": {
+        "earliest": "02:39:18.176910",
+        "earliest_day": "2025-04-28",
+        "latest": "11:24:24.835198",
+        "latest_day": "2025-01-13"
+      },
+      "current": {
+        "earliest": "2025-04-28 03:39:18.176910+02:00",
+        "latest": "2025-01-13 11:24:24.835198+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "12:57:14.486311",
+        "earliest_day": "2025-11-28",
+        "latest": "21:50:31.712859",
+        "latest_day": "2025-08-13"
+      },
+      "winter": {
+        "earliest": "11:57:14.486311",
+        "earliest_day": "2025-11-28",
+        "latest": "21:33:50.545629",
+        "latest_day": "2025-04-26"
+      },
+      "current": {
+        "earliest": "2025-11-28 11:57:14.486311+01:00",
+        "latest": "2025-08-13 21:50:31.712859+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "NO073",
+    "name": "Finnmark/Finnmárku/Finmarkku",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:16:32.606544",
+        "earliest_day": "2025-04-26",
+        "latest": "11:52:35.978500",
+        "latest_day": "2025-01-17"
+      },
+      "winter": {
+        "earliest": "02:20:30.297010",
+        "earliest_day": "2025-08-16",
+        "latest": "10:52:35.978500",
+        "latest_day": "2025-01-17"
+      },
+      "current": {
+        "earliest": "2025-04-26 03:16:32.606544+02:00",
+        "latest": "2025-01-17 10:52:35.978500+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "12:14:41.966547",
+        "earliest_day": "2025-11-25",
+        "latest": "21:17:29.264918",
+        "latest_day": "2025-08-16"
+      },
+      "winter": {
+        "earliest": "11:14:41.966547",
+        "earliest_day": "2025-11-25",
+        "latest": "21:16:18.532994",
+        "latest_day": "2025-04-26"
+      },
+      "current": {
+        "earliest": "2025-11-25 11:14:41.966547+01:00",
+        "latest": "2025-08-16 21:17:29.264918+02:00"
+      }
+    }
+  },
+  {
     "nuts_id": "NO081",
     "name": "Oslo",
     "sunrise": {
@@ -39396,6 +40156,86 @@
       "current": {
         "earliest": "2025-12-15 15:35:33.389403+01:00",
         "latest": "2025-06-23 22:53:13.118005+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "NO0A2",
+    "name": "Vestland",
+    "sunrise": {
+      "summer": {
+        "earliest": "04:05:00.773309",
+        "earliest_day": "2025-06-08",
+        "latest": "10:47:53.727133",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "03:05:00.773309",
+        "earliest_day": "2025-06-08",
+        "latest": "09:47:53.727133",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-08 04:05:00.773309+02:00",
+        "latest": "2025-12-26 09:47:53.727133+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "16:17:23.204554",
+        "earliest_day": "2025-12-16",
+        "latest": "23:07:30.511886",
+        "latest_day": "2025-07-03"
+      },
+      "winter": {
+        "earliest": "15:17:23.204554",
+        "earliest_day": "2025-12-16",
+        "latest": "22:07:30.511886",
+        "latest_day": "2025-07-03"
+      },
+      "current": {
+        "earliest": "2025-12-16 15:17:23.204554+01:00",
+        "latest": "2025-07-03 23:07:30.511886+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "NO0A3",
+    "name": "Møre og Romsdal",
+    "sunrise": {
+      "summer": {
+        "earliest": "04:03:20.239026",
+        "earliest_day": "2025-05-26",
+        "latest": "11:02:20.065709",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "03:03:20.239026",
+        "earliest_day": "2025-05-26",
+        "latest": "10:02:20.065709",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-26 04:03:20.239026+02:00",
+        "latest": "2025-12-25 10:02:20.065709+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:54:06.427669",
+        "earliest_day": "2025-12-17",
+        "latest": "23:00:36.713534",
+        "latest_day": "2025-07-16"
+      },
+      "winter": {
+        "earliest": "14:54:06.427669",
+        "earliest_day": "2025-12-17",
+        "latest": "22:00:36.713534",
+        "latest_day": "2025-07-16"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:54:06.427669+01:00",
+        "latest": "2025-07-16 23:00:36.713534+02:00"
       }
     }
   },
@@ -46720,6 +47560,126 @@
     }
   },
   {
+    "nuts_id": "NO020",
+    "name": "Innlandet",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:49:17.983696",
+        "earliest_day": "2025-06-03",
+        "latest": "10:37:23.804181",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:49:17.983696",
+        "earliest_day": "2025-06-03",
+        "latest": "09:37:23.804181",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-03 03:49:17.983696+02:00",
+        "latest": "2025-12-26 09:37:23.804181+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:55:43.888231",
+        "earliest_day": "2025-12-16",
+        "latest": "22:51:10.844142",
+        "latest_day": "2025-07-08"
+      },
+      "winter": {
+        "earliest": "14:55:43.888231",
+        "earliest_day": "2025-12-16",
+        "latest": "21:51:10.844142",
+        "latest_day": "2025-07-08"
+      },
+      "current": {
+        "earliest": "2025-12-16 14:55:43.888231+01:00",
+        "latest": "2025-07-08 22:51:10.844142+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "NO060",
+    "name": "Trøndelag/Trööndelage",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:52:02.892905",
+        "earliest_day": "2025-05-19",
+        "latest": "11:04:35.219866",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "02:52:02.892905",
+        "earliest_day": "2025-05-19",
+        "latest": "10:04:35.219866",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-19 03:52:02.892905+02:00",
+        "latest": "2025-12-25 10:04:35.219866+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:21:03.430414",
+        "earliest_day": "2025-12-18",
+        "latest": "22:41:19.660385",
+        "latest_day": "2025-07-23"
+      },
+      "winter": {
+        "earliest": "14:21:03.430414",
+        "earliest_day": "2025-12-18",
+        "latest": "21:41:19.660385",
+        "latest_day": "2025-07-23"
+      },
+      "current": {
+        "earliest": "2025-12-18 14:21:03.430414+01:00",
+        "latest": "2025-07-23 22:41:19.660385+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "NO071",
+    "name": "Nordland/Nordlánnda",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:48:59.683523",
+        "earliest_day": "2025-05-06",
+        "latest": "12:11:03.332337",
+        "latest_day": "2025-12-22"
+      },
+      "winter": {
+        "earliest": "02:48:59.683523",
+        "earliest_day": "2025-05-06",
+        "latest": "11:11:03.332337",
+        "latest_day": "2025-12-22"
+      },
+      "current": {
+        "earliest": "2025-05-06 03:48:59.683523+02:00",
+        "latest": "2025-12-22 11:11:03.332337+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "13:47:46.952268",
+        "earliest_day": "2025-12-20",
+        "latest": "22:18:16.817374",
+        "latest_day": "2025-08-05"
+      },
+      "winter": {
+        "earliest": "12:47:46.952268",
+        "earliest_day": "2025-12-20",
+        "latest": "21:29:34.346147",
+        "latest_day": "2025-04-26"
+      },
+      "current": {
+        "earliest": "2025-12-20 12:47:46.952268+01:00",
+        "latest": "2025-08-05 22:18:16.817374+02:00"
+      }
+    }
+  },
+  {
     "nuts_id": "RS224",
     "name": "Jablanička oblast",
     "sunrise": {
@@ -47560,6 +48520,126 @@
     }
   },
   {
+    "nuts_id": "SE312",
+    "name": "Dalarnas län",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:32:55.176936",
+        "earliest_day": "2025-06-08",
+        "latest": "10:16:22.994930",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:32:55.176936",
+        "earliest_day": "2025-06-08",
+        "latest": "09:16:22.994930",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-08 03:32:55.176936+02:00",
+        "latest": "2025-12-26 09:16:22.994930+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:45:18.404304",
+        "earliest_day": "2025-12-16",
+        "latest": "22:36:03.368697",
+        "latest_day": "2025-07-03"
+      },
+      "winter": {
+        "earliest": "14:45:18.404304",
+        "earliest_day": "2025-12-16",
+        "latest": "21:36:03.368697",
+        "latest_day": "2025-07-03"
+      },
+      "current": {
+        "earliest": "2025-12-16 14:45:18.404304+01:00",
+        "latest": "2025-07-03 22:36:03.368697+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "SE313",
+    "name": "Gävleborgs län",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:25:38.543602",
+        "earliest_day": "2025-06-03",
+        "latest": "10:14:09.163852",
+        "latest_day": "2025-12-26"
+      },
+      "winter": {
+        "earliest": "02:25:38.543602",
+        "earliest_day": "2025-06-03",
+        "latest": "09:14:09.163852",
+        "latest_day": "2025-12-26"
+      },
+      "current": {
+        "earliest": "2025-06-03 03:25:38.543602+02:00",
+        "latest": "2025-12-26 09:14:09.163852+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:32:03.757306",
+        "earliest_day": "2025-12-16",
+        "latest": "22:27:58.514802",
+        "latest_day": "2025-07-08"
+      },
+      "winter": {
+        "earliest": "14:32:03.757306",
+        "earliest_day": "2025-12-16",
+        "latest": "21:27:58.514802",
+        "latest_day": "2025-07-08"
+      },
+      "current": {
+        "earliest": "2025-12-16 14:32:03.757306+01:00",
+        "latest": "2025-07-08 22:27:58.514802+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "SE321",
+    "name": "Västernorrlands län",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:24:58.623439",
+        "earliest_day": "2025-05-23",
+        "latest": "10:30:56.799062",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "02:24:58.623439",
+        "earliest_day": "2025-05-23",
+        "latest": "09:30:56.799062",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-23 03:24:58.623439+02:00",
+        "latest": "2025-12-25 09:30:56.799062+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:07:17.003300",
+        "earliest_day": "2025-12-17",
+        "latest": "22:20:58.263857",
+        "latest_day": "2025-07-19"
+      },
+      "winter": {
+        "earliest": "14:07:17.003300",
+        "earliest_day": "2025-12-17",
+        "latest": "21:20:58.263857",
+        "latest_day": "2025-07-19"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:07:17.003300+01:00",
+        "latest": "2025-07-19 22:20:58.263857+02:00"
+      }
+    }
+  },
+  {
     "nuts_id": "SK032",
     "name": "Banskobystrický kraj",
     "sunrise": {
@@ -47676,6 +48756,126 @@
       "current": {
         "earliest": "2025-12-11 15:38:23.652200+01:00",
         "latest": "2025-06-25 20:41:31.425116+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "SE322",
+    "name": "Jämtlands län",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:37:37.267750",
+        "earliest_day": "2025-05-22",
+        "latest": "10:45:08.637648",
+        "latest_day": "2025-12-25"
+      },
+      "winter": {
+        "earliest": "02:37:37.267750",
+        "earliest_day": "2025-05-22",
+        "latest": "09:45:08.637648",
+        "latest_day": "2025-12-25"
+      },
+      "current": {
+        "earliest": "2025-05-22 03:37:37.267750+02:00",
+        "latest": "2025-12-25 09:45:08.637648+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "15:16:52.626111",
+        "earliest_day": "2025-12-17",
+        "latest": "22:32:05.908609",
+        "latest_day": "2025-07-20"
+      },
+      "winter": {
+        "earliest": "14:16:52.626111",
+        "earliest_day": "2025-12-17",
+        "latest": "21:32:05.908609",
+        "latest_day": "2025-07-20"
+      },
+      "current": {
+        "earliest": "2025-12-17 14:16:52.626111+01:00",
+        "latest": "2025-07-20 22:32:05.908609+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "SE331",
+    "name": "Västerbottens län",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:29:20.914965",
+        "earliest_day": "2025-05-14",
+        "latest": "10:58:27.333527",
+        "latest_day": "2025-12-24"
+      },
+      "winter": {
+        "earliest": "02:29:20.914965",
+        "earliest_day": "2025-05-14",
+        "latest": "09:58:27.333527",
+        "latest_day": "2025-12-24"
+      },
+      "current": {
+        "earliest": "2025-05-14 03:29:20.914965+02:00",
+        "latest": "2025-12-24 09:58:27.333527+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "14:35:22.983006",
+        "earliest_day": "2025-12-18",
+        "latest": "22:12:32.521098",
+        "latest_day": "2025-07-28"
+      },
+      "winter": {
+        "earliest": "13:35:22.983006",
+        "earliest_day": "2025-12-18",
+        "latest": "21:12:32.521098",
+        "latest_day": "2025-07-28"
+      },
+      "current": {
+        "earliest": "2025-12-18 13:35:22.983006+01:00",
+        "latest": "2025-07-28 22:12:32.521098+02:00"
+      }
+    }
+  },
+  {
+    "nuts_id": "SE332",
+    "name": "Norrbottens län",
+    "sunrise": {
+      "summer": {
+        "earliest": "03:26:46.630980",
+        "earliest_day": "2025-05-06",
+        "latest": "11:52:46.153028",
+        "latest_day": "2025-12-22"
+      },
+      "winter": {
+        "earliest": "02:26:46.630980",
+        "earliest_day": "2025-05-06",
+        "latest": "10:52:46.153028",
+        "latest_day": "2025-12-22"
+      },
+      "current": {
+        "earliest": "2025-05-06 03:26:46.630980+02:00",
+        "latest": "2025-12-22 10:52:46.153028+01:00"
+      }
+    },
+    "sunset": {
+      "summer": {
+        "earliest": "13:22:58.004427",
+        "earliest_day": "2025-12-20",
+        "latest": "21:57:31.931009",
+        "latest_day": "2025-08-05"
+      },
+      "winter": {
+        "earliest": "12:22:58.004427",
+        "earliest_day": "2025-12-20",
+        "latest": "21:08:28.845526",
+        "latest_day": "2025-04-26"
+      },
+      "current": {
+        "earliest": "2025-12-20 12:22:58.004427+01:00",
+        "latest": "2025-08-05 21:57:31.931009+02:00"
       }
     }
   },
