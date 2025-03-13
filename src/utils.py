@@ -36,3 +36,15 @@ def categorize_time_to_half_hour(dt):
         return f"{h:02d}:00 - {h:02d}:30"
     else:
         return f"{h:02d}:30 - {h+1:02d}:00"  
+    
+def categorize_time_to_6min_numerical(dt):
+    h = dt.hour
+    m = dt.minute
+    return h + (m // 6) * 0.1    
+
+def categorize_time_to_6min(dt):
+    h = dt.hour
+    m = dt.minute
+    start_minute = (m // 6) * 6
+    end_minute = start_minute + 6
+    return f"{h:02}:{start_minute:02} - {h:02}:{end_minute:02}"
