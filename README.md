@@ -8,8 +8,21 @@ Diese Scripte generieren berechnen Sonnenaufgang und -Untergang für verschieden
 * `2-analyse.ipynb`: Generiert aus den Daten Karten
 
 ## Installation
+VirtualEnv erstellen
+```python
+python3 -m venv env
+```
+VirtualEnv aktivieren
+```python
+source env/bin/activate
+```
+Requirements installieren
 ```python
 pip install -r requirements.txt
+```
+Tippecanoe installieren
+```bash
+brew install tippecanoe
 ```
 
 ## Sources
