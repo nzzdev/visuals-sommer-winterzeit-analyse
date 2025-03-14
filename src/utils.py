@@ -12,7 +12,7 @@ def addTitle(map, title):
 
 # Convert current to only time like the others
 def dt_to_time(dt):
-    dt = datetime.datetime.strptime(dt.split('+')[0], '%Y-%m-%d %H:%M:%S.%f')
+    dt = datetime.datetime.strptime(dt[:-6], '%Y-%m-%d %H:%M:%S.%f')
     return dt.time()
 
 def time_to_time(dt):
