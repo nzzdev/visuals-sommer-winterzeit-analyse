@@ -14,6 +14,7 @@ PATH_GEOJSON_EXPORT = Path('../export/web/grid.geojson')
 PATH_MBTILE_EXPORT = Path('../export/web/grid.mbtiles')
 PATH_MBTILE_COMBINED  = Path('../export/web/zeitumstellung.mbtiles')
 PATH_WEBEXPORT = Path('../export/web/')
+PATH_HEXAGRID_TIMEDATA = Path('../export/hexagons-timedata.gpkg')
 PATH_GEOJSON_TIMEZONES = PATH_WEBEXPORT / 'timezone-lines.geojson'
 PATH_MBTILES_TIMEZONES = PATH_WEBEXPORT / 'timezone-lines.mbtiles'
 PATH_GEOJSON_COUNTRIES = PATH_WEBEXPORT / 'countries.geojson'
