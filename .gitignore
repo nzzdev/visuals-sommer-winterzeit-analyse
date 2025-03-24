@@ -8,3 +8,4 @@ credentials.py
 *.qmd
 .env
 .DS_STORE
+export/citylabels.tmp.geojson
