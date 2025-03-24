@@ -18,6 +18,10 @@ def dt_to_time(dt):
 def time_to_time(dt):
     return datetime.datetime.strptime(dt, '%H:%M:%S.%f').time()
 
+
+def time_to_time_str(dt):
+    return datetime.datetime.strptime(dt, '%H:%M:%S.%f').strftime('%H:%M')
+
 # Calculate difference between time_reference and given time
 def calculate_difference_to_timereference(dt, time_reference):
     diff = datetime.datetime.combine(datetime.date.min, dt) - datetime.datetime.combine(datetime.date.min, time_reference)

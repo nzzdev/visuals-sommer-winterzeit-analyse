@@ -20,4 +20,5 @@ PATH_GEOJSON_TIMEZONES = PATH_WEBEXPORT / 'timezone-lines.geojson'
 PATH_MBTILES_TIMEZONES = PATH_WEBEXPORT / 'timezone-lines.mbtiles'
 PATH_GEOJSON_COUNTRIES = PATH_WEBEXPORT / 'countries.geojson'
 PATH_MBTILES_COUNTRIES = PATH_WEBEXPORT / 'countries.mbtiles'
+PATH_GEOJSON_POPUPDATA = Path('../export/web/popupdata.geojson')
 
