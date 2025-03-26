@@ -22,3 +22,4 @@ PATH_GEOJSON_COUNTRIES = PATH_WEBEXPORT / 'countries.geojson'
 PATH_MBTILES_COUNTRIES = PATH_WEBEXPORT / 'countries.mbtiles'
 PATH_GEOJSON_POPUPDATA = Path('../export/web/popupdata.geojson')
 
+REMOVE_TIMEZONES = ['Africa/Ceuta', 'Africa/Casablanca', 'Europe/Moscow', 'Europe/Belarus', 'Europe/Minsk', 'Europe/Kyiv', 'Europe/Kaliningrad', 'Europe/Istanbul']
