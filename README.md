@@ -1,5 +1,5 @@
 # Sommer-Winter-Zeit
-Dieses Repo enthält alle Daten, die zur Berechnung [dieses Artikels](https://www.nzz.ch/-ld.1877525) gebraucht haben.
+Dieses Repo enthält alle Scripte und Daten, die wir zur Berechnung [dieses Artikels](https://www.nzz.ch/-ld.1877525) verwendet haben.
 
 ## Testkarten
 Interaktive Karten: https://nzzdev.github.io/visuals-sommer-winterzeit-analyse/
