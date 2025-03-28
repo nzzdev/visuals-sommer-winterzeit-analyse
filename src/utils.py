@@ -41,12 +41,14 @@ def categorize_time_to_half_hour(dt):
     else:
         return f"{h:02d}:30 - {h+1:02d}:00"  
     
-def categorize_time_to_6min_numerical(dt):
+def categorize_time_to_6min_numerical(dt_str):
+    dt = datetime.datetime.strptime(dt_str, '%H:%M')
     h = dt.hour
     m = dt.minute
     return h + (m // 6) * 0.1    
 
-def categorize_time_to_6min(dt):
+def categorize_time_to_6min(dt_str):
+    dt = datetime.datetime.strptime(dt_str, '%H:%M')
     h = dt.hour
     m = dt.minute
     start_minute = (m // 6) * 6
